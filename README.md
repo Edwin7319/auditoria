@@ -5,13 +5,11 @@ Desarrollo del Sistema de Gestión Académico para el Instituto Internacional de
 ### *Requisitos para levantar el entorno de trabajo.*
 
 
-
-
 ### *Pasos para descargar el aplicativo:*
 
 1. Copiar la url del proyecto.
 ```
-https://github.com/Edwin7319/auditoria
+https://github.com/Edwin7319/auditoria.git
 ```
 
 2. Abrir la terminal y dirigirse a la carpeta donde se desea clonar el proyecto.
@@ -21,12 +19,12 @@ En nuestro caso lo realizaremos en el "Escritorio".
 
 3. Pegar la url del proyecto en la terminal y daremos enter.
 ```
-$ git clone https://github.com/Edwin7319/auditoria
+$ git clone https://github.com/Edwin7319/auditoria.git
 ```
 
-4. Ingresar al directorio que se creo **sigib**.
+4. Ingresar al directorio que se creo **auditoria**.
 ```
-$ cd sigib
+$ cd auditoria
 ```
 
 5. Cambiarse a la rama **desarrollo**.
