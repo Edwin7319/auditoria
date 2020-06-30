@@ -11,7 +11,7 @@ Desarrollo del Sistema de Gestión Académico para el Instituto Internacional de
 
 1. Copiar la url del proyecto.
 ```
-https://github.com/Edwin7319/sigib.git
+https://github.com/Edwin7319/auditoria
 ```
 
 2. Abrir la terminal y dirigirse a la carpeta donde se desea clonar el proyecto.
@@ -21,7 +21,7 @@ En nuestro caso lo realizaremos en el "Escritorio".
 
 3. Pegar la url del proyecto en la terminal y daremos enter.
 ```
-$ git clone https://github.com/Edwin7319/sigib.git
+$ git clone https://github.com/Edwin7319/auditoria
 ```
 
 4. Ingresar al directorio que se creo **sigib**.
