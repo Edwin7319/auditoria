@@ -32,20 +32,34 @@ $ cd auditoria
 $ git checkout desarrollo
 ```
 
-6. Instalar las dependencias del proyecto en backend y frontend.
+6. Instalar las dependencias levantar el proyecto en **backend**.
 
 **Backend**
 ```
 $ cd backend-sigib/
 
 $ npm i
+
+$ npm run start:dev
 ```
 
-
-**Frontend**
+7. Instalar las dependencias levantar el proyecto en **frontend**.
 ```
 $ cd frontapp-sigib/
 
 $ npm i
+
+$ ng s
 ```
 
+8. Para interactuar con el sistema. Escribir en el búscador del navegador la siguiente url.
+```
+http://localhost:4200/
+```
+
+9. Credenciales del usuario
+```
+usuario: 1104125883
+contraseña: 1234567890
+rol: administrador
+```
