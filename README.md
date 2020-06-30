@@ -4,6 +4,9 @@ Desarrollo del Sistema de Gestión Académico para el Instituto Internacional de
 
 ### *Requisitos para levantar el entorno de trabajo.*
 
+* npm install -g @angular/cli
+
+* npm i -g @nestjs/cli
 
 ### *Pasos para descargar el aplicativo:*
 
