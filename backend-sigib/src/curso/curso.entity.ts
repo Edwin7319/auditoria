@@ -49,6 +49,13 @@ export class CursoEntity {
     numeroMaximoAlumnos: number = null;
 
     @Column({
+        type: 'varchar',
+        name: 'periodo_academico',
+        length: 4,
+    })
+    periodoAcademico: string = null;
+
+    @Column({
         type: 'int',
         name: 'id_carrera',
     })

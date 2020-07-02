@@ -23,9 +23,9 @@ export const CONFIG_ENVIRONMENT: any = {
   },
   puertoLevanta: 8080,
   urls: {
-    protocolo: 'http',
-    ip: 'localhost',
-    puertoEscucha: 8080,
+    protocolo: 'https',
+    ip: '8080-e0af08e8-1a29-400e-87e5-085b6384bc5e.ws-us02.gitpod.io',
+    puertoEscucha:'',
     segmento: '/',
     url() {
       return `${this.protocolo}://${this.ip}:${this.puertoEscucha}${
